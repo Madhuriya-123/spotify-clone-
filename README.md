@@ -13,7 +13,7 @@ This project is a front-end clone of the Spotify web player, built primarily wit
 
 . Modern Aesthetics: Clean and minimalist design with dark mode color scheme, similar to Spotify's interface.
 
-🛠️ Technologies Used
+🛠️ Technologies Used <br>
 1)HTML5: For structuring the web content.
 
 2)CSS3: For styling and layout, including:
